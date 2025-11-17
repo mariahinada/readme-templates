@@ -1,7 +1,10 @@
 # Documentação de Teste
 
+[Descrição curta...]
+
 ## Descrição do Repositório
-[Descrição do projeto...]
+
+[Descrição completa...]
 
 ## Estrutura do Repositório
 ```text
